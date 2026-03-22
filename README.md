@@ -24,7 +24,7 @@ together with interpretations of physics by
 [Everett](https://en.wikipedia.org/wiki/Hugh_Everett_III),
 [Griffiths](https://en.wikipedia.org/wiki/Robert_Griffiths_(physicist)),
 [Hartle](https://en.wikipedia.org/wiki/James_Hartle), and
-[Wojciech](https://en.wikipedia.org/wiki/Wojciech_H._Zurek) in one hand and e.g.
+[Zurek](https://en.wikipedia.org/wiki/Wojciech_H._Zurek) in one hand and e.g.
 [Barbour](https://en.wikipedia.org/wiki/Julian_Barbour) and
 [D'Ariano](https://en.wikipedia.org/wiki/Giacomo_Mauro_D%27Ariano) in another hand,
 and then add some emphasis on understanding trauma, as expressed e.g. by
