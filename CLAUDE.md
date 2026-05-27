@@ -41,7 +41,7 @@ A speculative metaphysics writing project. Not a coding project. Help with clari
 - No strict materialism; no dualism; broadly monist
 - Large discontinuities are unlikely; transitions are local and subtle
 
-## Files
+## Some files (maybe not all or not up to date)
 
 | File | Purpose |
 |---|---|
